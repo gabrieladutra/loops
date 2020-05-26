@@ -351,7 +351,7 @@ public class Math {
 
     public static void main(String[] args) {
         System.out.println(tailSum(1, 75));
-        /* System.out.println(toBinary(2018));
+        System.out.println(toBinary(2018));
        System.out.println(powerOf10(3));
         for (int i = 0; i <= 10; i++) {
 
@@ -384,7 +384,7 @@ public class Math {
         count();
         getQuadrant();
         getPreferences();
-        guessPassword();*/
+        guessPassword();
     }
 
 }
